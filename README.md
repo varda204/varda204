@@ -33,25 +33,16 @@ AI is a tool. Systems are the goal.
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=FFD43B)
-![SQL](https://img.shields.io/badge/SQL-1E1E2E?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-1E1E2E?style=for-the-badge&logo=openjdk)
 
 ### ⚙️ Backend & Architecture Exposure
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E1E2E?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=nodedotjs)
 ![Docker](https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git)
 
 ### ☁️ Cloud & Deployment (Working Knowledge)
 ![AWS](https://img.shields.io/badge/AWS-1E1E2E?style=for-the-badge&logo=amazon-aws)
-![Firebase](https://img.shields.io/badge/Firebase-1E1E2E?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-1E1E2E?style=for-the-badge&logo=vercel)
 
-### 🧠 Applied AI & Intelligent Systems
-![OpenAI](https://img.shields.io/badge/OpenAI-1E1E2E?style=for-the-badge&logo=openai)
-![Anthropic](https://img.shields.io/badge/Anthropic-1E1E2E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1E1E2E?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E1E2E?style=for-the-badge&logo=scikit-learn)
 
 ### 🎨 Product & Design
 ![Figma](https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma)
